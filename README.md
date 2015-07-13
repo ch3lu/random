@@ -1,0 +1,1 @@
+Genera un número aleatorio con Math.random() y devuelve por consola si es mayor o menor que 0,5.
